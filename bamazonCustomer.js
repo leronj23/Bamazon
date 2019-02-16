@@ -27,9 +27,7 @@ connection.connect(function (err) {
 function afterConnection() {
     connection.query('SELECT item_id, product_name, FORMAT(price, 2) AS price FROM products', function (err, res) {
         if (err) throw err;
-
-        console.log(res);
-
+        
         let tableData = [];
 
         res.forEach(element => {
