@@ -1,1 +1,1 @@
-# Bamazon
+# bAmazon Customer
