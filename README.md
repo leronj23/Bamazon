@@ -10,7 +10,7 @@ All this is powered by Node.js.
 Enjoy and I hope you like it.
 
 # Link to video demonstration
-[![Watch the video](https://github.com/leronj23/liri-node-app/blob/master/screenshot/liri-node-app.png)](https://youtu.be/crxhlFH0g_A)
+[![Watch the video](https://github.com/leronj23/liri-node-app/blob/master/screenshot/bAmazonCustomer-app.png)](https://youtu.be/crxhlFH0g_A)
 
 # Technology used
 * Javascript
